@@ -15,7 +15,7 @@ function run(resourcePath, query, content) {
 			result = url
 		}
 	}
-	cssobjectsLoader.call(context, content)
+	styleobjectsLoader.call(context, content)
 	return result
 }
 
@@ -27,7 +27,7 @@ describe('module import', function() {
 	it('should be imported without error', function() {
 
 		try {
-			var cssobjectsLoader = require('../index.js')
+			var styleobjectsLoader = require('../index.js')
 		}
 		catch (err) {
 			err.should.be.eql(null)
