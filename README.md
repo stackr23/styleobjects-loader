@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.com/stackr23/styleobjects-loader.svg?branch=master)](https://travis-ci.com/stackr23/styleobjects-loader)
 [![npm version](https://badge.fury.io/js/%40stackr23%2Fstyleobjects-loader.svg)](https://badge.fury.io/js/%40stackr23%2Fstyleobjects-loader)
 [![devDependencies Status](https://david-dm.org/stackr23/styleobjects-loader/dev-status.svg)](https://david-dm.org/stackr23/styleobjects-loader?type=dev)
-[![Known Vulnerabilities](https://snyk.io/test/github/stackr23/styleobjects-loader/badge.svg)](https://snyk.io/test/github/stackr23/styleobjects-loader)<br />
+[![Known Vulnerabilities](https://snyk.io/test/github/stackr23/styleobjects-loader/badge.svg)](https://snyk.io/test/github/stackr23/styleobjects-loader) [![Greenkeeper badge](https://badges.greenkeeper.io/stackr23/styleobjects-loader.svg)](https://greenkeeper.io/)<br />
 [![Maintenance][maintenance-img]][maintenance-url]
 [![PRs Welcome][pr-welcome]](http://makeapullrequest.com)
 
