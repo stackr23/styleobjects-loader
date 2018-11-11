@@ -1,1 +1,9 @@
 test
+node_modules
+.github
+.travis.yml
+.eslintrc
+.babelrc
+.editorconfig
+.gitignore
+.npmignore
